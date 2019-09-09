@@ -1,0 +1,17 @@
+DecisionTree Output 
+ 
+Accuracy SCore of DecisionTree :0.9259770908881598
+
+Classification Report of DecisionTree:
+              precision    recall  f1-score   support
+
+           0       0.99      0.93      0.96     17093
+           1       0.11      0.48      0.17       280
+
+   micro avg       0.93      0.93      0.93     17373
+   macro avg       0.55      0.71      0.57     17373
+weighted avg       0.98      0.93      0.95     17373
+
+Confusion Matrix of DecisionTree :
+[[15953  1140]
+ [  146   134]]

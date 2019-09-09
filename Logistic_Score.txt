@@ -1,0 +1,17 @@
+Logistic Regression Output 
+ 
+Accuracy SCore of Logistic Regression:0.926667817878317
+
+Classification Report of Logistic Regression:
+              precision    recall  f1-score   support
+
+           0       1.00      0.93      0.96     17373
+           1       0.00      0.00      0.00         0
+
+   micro avg       0.93      0.93      0.93     17373
+   macro avg       0.50      0.46      0.48     17373
+weighted avg       1.00      0.93      0.96     17373
+
+Confusion Matrix of Logistic Regression :
+[[16099  1274]
+ [    0     0]]

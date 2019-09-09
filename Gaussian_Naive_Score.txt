@@ -1,0 +1,17 @@
+Gaussian_Naive Output 
+ 
+Accuracy SCore of Gaussian_Naive:0.9003626316698325
+
+Classification Report of Gaussian_Naive:
+              precision    recall  f1-score   support
+
+           0       0.96      0.93      0.95     16678
+           1       0.09      0.17      0.12       695
+
+   micro avg       0.90      0.90      0.90     17373
+   macro avg       0.53      0.55      0.53     17373
+weighted avg       0.93      0.90      0.91     17373
+
+Confusion Matrix of Gaussian_Naive :
+[[15523  1155]
+ [  576   119]]
